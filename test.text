@@ -24,6 +24,7 @@ Git is a version control system
 
 - git branch 
 - git branch [branch_name]
+
 - git merge -m "message" [branch_name]
 - git switch [branch_name]
 - git switch -c [branch_name]
