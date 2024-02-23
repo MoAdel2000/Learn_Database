@@ -2,10 +2,30 @@ My name is mhamed Adel
 I Learn Git
 Git is a version control system 
 
-Basic Cmmand in Git:
+# Basic Cmmand in Git:
+
+- touch .gitignore
+
+- git config --global
+- git config --global init.default branch main
 - git init 
 - git clone
 - git status
 - git add 
+- git rm -cached [file_name]
+- git restore --staged [file_name]
 - git commit -m "message"
+- git commit -m "message" --amend
+- git commit -a -m "message"
+- git log 
+- git log -p
+- git log --oneline 
+- git rebase -i --root
+
 - git branch 
+- git branch [branch_name]
+- git merge -m "message" [branch_name]
+- git switch [branch_name]
+- git switch -c [branch_name]
+- git checkout [branch_name]
+- git checkout -b [branch_name]
