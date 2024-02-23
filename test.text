@@ -1,0 +1,11 @@
+My name is mhamed Adel
+I Learn Git
+Git is a version control system 
+
+Basic Cmmand in Git:
+- git init 
+- git clone
+- git status
+- git add 
+- git commit -m "message"
+- git branch 
